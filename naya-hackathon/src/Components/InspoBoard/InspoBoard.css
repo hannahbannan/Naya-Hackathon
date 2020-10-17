@@ -1,0 +1,14 @@
+.InspoBoard {
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.thumb {
+    width: 200px;
+    height: auto;
+    padding: 10px;
+}
