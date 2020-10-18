@@ -29,7 +29,7 @@ function InspoBoard() {
             </div>
             <button>Edit</button>
           </div>
-          
+
           <div className="shapes">
             <h3>Shapes</h3>
             <div className="image container">
@@ -45,16 +45,16 @@ function InspoBoard() {
               />
             </div>
             <img
-                className="thumb bigthumb"
-                src="https://res.cloudinary.com/hannahbannan/image/upload/v1603051662/Naya/Shapes/product_66767_wmn6fh.jpg"
-                alt="rounded table"
-              />
+              className="thumb bigthumb"
+              src="https://res.cloudinary.com/hannahbannan/image/upload/v1603051662/Naya/Shapes/product_66767_wmn6fh.jpg"
+              alt="rounded table"
+            />
             <button>Edit</button>
           </div>
         </div>
 
         <div className="block">
-        <div className="colors">
+          <div className="colors">
             <h3>Colors</h3>
             <div className="image container">
               <img
@@ -99,12 +99,10 @@ function InspoBoard() {
           </div>
           <div className="style-words">
             <h3>Style Words</h3>
-            <ul>
-              <li>Clean</li>
-              <li>Bright</li>
-              <li>Nautical</li>
-              <li>Modern</li>
-            </ul>
+            <p>Clean</p>
+            <p>Bright</p>
+            <p>Nautical</p>
+            <p>Modern</p>
             <button>Edit</button>
           </div>
         </div>

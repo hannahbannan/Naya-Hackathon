@@ -39,6 +39,11 @@
     width: 90%;
 }
 
+.bigthumb:hover {
+    transform:scale(1.6);
+    transition: 0.5s;
+}
+
 .block {
   display: block;
   width: 30vw;
@@ -47,8 +52,10 @@
 
 ul {
     list-style: none;
+}
+
+li {
     text-align: center;
-    margin-left: -20px;
 }
 
 button {
@@ -79,5 +86,9 @@ button:hover {
 
     .thumb:hover {
         transform:none;
+    }
+
+    .bigthumb:hover {
+        transform: none;
     }
 }
