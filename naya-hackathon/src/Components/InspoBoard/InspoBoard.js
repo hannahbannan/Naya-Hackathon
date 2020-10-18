@@ -6,7 +6,7 @@ function InspoBoard() {
   return (
     <div className="InspoBoard">
       <h1>Design Board</h1>
-      <div className=" outside">
+      <div className="outside">
         <div className="block">
           <div className="materials">
             <h3>Materials</h3>
@@ -23,13 +23,38 @@ function InspoBoard() {
               />
               <img
                 className="thumb"
-                src="https://res.cloudinary.com/hannahbannan/image/upload/v1602966551/Naya/Materials/0696_jonh1k.png"
-                alt="oak with black"
+                src="https://res.cloudinary.com/hannahbannan/image/upload/v1603051501/Naya/Materials/112138_3488172802153_7d4aa062_13ee_4a77_be22_90478cad464a_zgip0a.jpg"
+                alt="blue epoxy"
               />
             </div>
             <button>Edit</button>
           </div>
-          <div className="colors">
+          
+          <div className="shapes">
+            <h3>Shapes</h3>
+            <div className="image container">
+              <img
+                className="thumb bigthumb"
+                src="https://res.cloudinary.com/hannahbannan/image/upload/v1602967223/Naya/Shapes/caa194e88f7932cc5ac2dd68b5f5078d_z41zlh.jpg"
+                alt="almond chaie"
+              />
+              <img
+                className="thumb bigthumb"
+                src="https://res.cloudinary.com/hannahbannan/image/upload/v1602967261/Naya/Shapes/b24a2e848687cc44dfd863840c1a45ab_zctgd7.jpg"
+                alt="sharp cube chair"
+              />
+            </div>
+            <img
+                className="thumb bigthumb"
+                src="https://res.cloudinary.com/hannahbannan/image/upload/v1603051662/Naya/Shapes/product_66767_wmn6fh.jpg"
+                alt="rounded table"
+              />
+            <button>Edit</button>
+          </div>
+        </div>
+
+        <div className="block">
+        <div className="colors">
             <h3>Colors</h3>
             <div className="image container">
               <img
@@ -50,25 +75,6 @@ function InspoBoard() {
             </div>
             <button>Edit</button>
           </div>
-          <div className="shapes">
-            <h3>Shapes</h3>
-            <div className="image container">
-              <img
-                className="thumb"
-                src="https://res.cloudinary.com/hannahbannan/image/upload/v1602967223/Naya/Shapes/caa194e88f7932cc5ac2dd68b5f5078d_z41zlh.jpg"
-                alt="almond chaie"
-              />
-              <img
-                className="thumb"
-                src="https://res.cloudinary.com/hannahbannan/image/upload/v1602967261/Naya/Shapes/b24a2e848687cc44dfd863840c1a45ab_zctgd7.jpg"
-                alt="sharp cube chair"
-              />
-            </div>
-            <button>Edit</button>
-          </div>
-        </div>
-
-        <div className="block">
           <div className="sketch">
             <h3>Sketch</h3>
             <div className="image container">
@@ -108,22 +114,22 @@ function InspoBoard() {
             <h3>Design Inpirations</h3>
             <div className="image container">
               <img
-                className="thumb"
+                className="thumb bigthumb"
                 src="https://res.cloudinary.com/hannahbannan/image/upload/v1602967396/Naya/Design/1490389117-white-living-room-03_xbuf3b.jpg"
                 alt="stripe chairs"
               />
               <img
-                className="thumb"
+                className="thumb bigthumb"
                 src="https://res.cloudinary.com/hannahbannan/image/upload/v1602967347/Naya/Design/scandinavian_feeling_best_coffeetables_muuto_around_n65dca.jpg"
                 alt="round coffee table"
               />
               <img
-                className="thumb"
+                className="thumb bigthumb"
                 src="https://res.cloudinary.com/hannahbannan/image/upload/v1602967374/Naya/Design/leather-pulls-on-wooden-desk_os4jp8.jpg"
                 alt="navy leather and wood office"
               />
               <img
-                className="thumb"
+                className="thumb bigthumb"
                 src="https://res.cloudinary.com/hannahbannan/image/upload/v1602967332/Naya/Design/51499-Bok-dining-table-_-51490-Bok-dining-chairs-_7_2048px_zv7as2.jpg"
                 alt="simple rustic dining table"
               />

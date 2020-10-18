@@ -30,7 +30,7 @@ function Basics() {
         <h4>Timeframe:</h4> <p>1-3 months</p>
       </div>
       <div className="bubble">
-        <h4>Story:</h4>{" "}
+        <h4>Story:</h4>
         <p>
           I want a custom dining room table to use for my family meals. I want a
           sleek, modern design but also kid friendly. My house is modern
