@@ -4,7 +4,8 @@ import "./InspoBoard.css";
 function InspoBoard() {
   return (
     <div className="InspoBoard">
-      <div className="container outside">
+        <h1>Design Board</h1>
+      <div className=" outside">
         <div className="block">
           <div className="materials">
             <h3>Materials</h3>
@@ -25,6 +26,7 @@ function InspoBoard() {
                 alt="oak with black"
               />
             </div>
+            <button>Edit</button>
           </div>
           <div className="colors">
             <h3>Colors</h3>
@@ -45,6 +47,7 @@ function InspoBoard() {
                 alt="space cadet"
               />
             </div>
+            <button>Edit</button>
           </div>
           <div className="shapes">
             <h3>Shapes</h3>
@@ -60,6 +63,7 @@ function InspoBoard() {
                 alt="sharp cube chair"
               />
             </div>
+            <button>Edit</button>
           </div>
         </div>
 
@@ -73,6 +77,7 @@ function InspoBoard() {
                 alt="table sketch"
               />
             </div>
+            <button>Edit</button>
           </div>
           <div className="your-space">
             <h3>Your Space</h3>
@@ -83,6 +88,7 @@ function InspoBoard() {
                 alt="your room"
               />
             </div>
+            <button>Edit</button>
           </div>
           <div className="style-words">
             <h3>Style Words</h3>
@@ -92,6 +98,7 @@ function InspoBoard() {
               <li>Nautical</li>
               <li>Modern</li>
             </ul>
+            <button>Edit</button>
           </div>
         </div>
 
@@ -120,6 +127,7 @@ function InspoBoard() {
                 alt="simple rustic dining table"
               />
             </div>
+            <button>Edit</button>
           </div>
         </div>
       </div>
