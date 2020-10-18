@@ -6,10 +6,10 @@ import Basics from "./Components/Basics/Basics";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <body className="App-header">
        <Basics />
        <InspoBoard />
-      </header>
+      </body>
     </div>
   );
 }
