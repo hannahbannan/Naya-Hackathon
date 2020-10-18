@@ -1,10 +1,11 @@
 import React from "react";
 import "./InspoBoard.css";
+import { SwatchesPicker } from "react-color";
 
 function InspoBoard() {
   return (
     <div className="InspoBoard">
-        <h1>Design Board</h1>
+      <h1>Design Board</h1>
       <div className=" outside">
         <div className="block">
           <div className="materials">
