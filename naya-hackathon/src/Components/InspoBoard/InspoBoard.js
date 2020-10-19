@@ -27,7 +27,7 @@ function InspoBoard() {
                 alt="blue epoxy"
               />
             </div>
-            <button>Edit</button>
+            {/* <button>Edit</button> */}
           </div>
 
           <div className="shapes">
@@ -49,7 +49,7 @@ function InspoBoard() {
               src="https://res.cloudinary.com/hannahbannan/image/upload/v1603051662/Naya/Shapes/product_66767_wmn6fh.jpg"
               alt="rounded table"
             />
-            <button>Edit</button>
+            {/* <button>Edit</button> */}
           </div>
         </div>
 
@@ -73,7 +73,7 @@ function InspoBoard() {
                 alt="space cadet"
               />
             </div>
-            <button>Edit</button>
+            {/* <button>Edit</button> */}
           </div>
           <div className="sketch">
             <h3>Sketch</h3>
@@ -84,7 +84,7 @@ function InspoBoard() {
                 alt="table sketch"
               />
             </div>
-            <button>Edit</button>
+            {/* <button>Edit</button> */}
           </div>
           <div className="your-space">
             <h3>Your Space</h3>
@@ -95,7 +95,7 @@ function InspoBoard() {
                 alt="your room"
               />
             </div>
-            <button>Edit</button>
+            {/* <button>Edit</button> */}
           </div>
           <div className="style-words">
             <h3>Style Words</h3>
@@ -103,7 +103,7 @@ function InspoBoard() {
             <p>Bright</p>
             <p>Nautical</p>
             <p>Modern</p>
-            <button>Edit</button>
+            {/* <button>Edit</button> */}
           </div>
         </div>
 
@@ -132,7 +132,7 @@ function InspoBoard() {
                 alt="simple rustic dining table"
               />
             </div>
-            <button>Edit</button>
+            {/* <button>Edit</button> */}
           </div>
         </div>
       </div>

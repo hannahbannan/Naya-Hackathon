@@ -23,6 +23,11 @@
     padding: 5px;
     border-radius: 10px;
     border: 2px solid #f2f2f2;
+    cursor: pointer;
+}
+
+.materials:hover, .colors:hover, .shapes:hover, .sketch:hover, .your-space:hover, .style-words:hover, .design-inspirations:hover {
+    background-color: #f2f2f2;
 }
 
 .thumb {
