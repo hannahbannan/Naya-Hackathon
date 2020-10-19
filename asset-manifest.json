@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Naya-Hackathon/static/css/main.86598365.chunk.css",
+    "main.js": "/Naya-Hackathon/static/js/main.7559d334.chunk.js",
+    "main.js.map": "/Naya-Hackathon/static/js/main.7559d334.chunk.js.map",
+    "runtime-main.js": "/Naya-Hackathon/static/js/runtime-main.8b1a1892.js",
+    "runtime-main.js.map": "/Naya-Hackathon/static/js/runtime-main.8b1a1892.js.map",
+    "static/js/2.63065c24.chunk.js": "/Naya-Hackathon/static/js/2.63065c24.chunk.js",
+    "static/js/2.63065c24.chunk.js.map": "/Naya-Hackathon/static/js/2.63065c24.chunk.js.map",
+    "index.html": "/Naya-Hackathon/index.html",
+    "precache-manifest.a668d54d75e475ed52986457f8f67bb4.js": "/Naya-Hackathon/precache-manifest.a668d54d75e475ed52986457f8f67bb4.js",
+    "service-worker.js": "/Naya-Hackathon/service-worker.js",
+    "static/css/main.86598365.chunk.css.map": "/Naya-Hackathon/static/css/main.86598365.chunk.css.map",
+    "static/js/2.63065c24.chunk.js.LICENSE.txt": "/Naya-Hackathon/static/js/2.63065c24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b1a1892.js",
+    "static/js/2.63065c24.chunk.js",
+    "static/css/main.86598365.chunk.css",
+    "static/js/main.7559d334.chunk.js"
+  ]
+}
