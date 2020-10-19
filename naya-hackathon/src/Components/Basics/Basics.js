@@ -32,7 +32,7 @@ function Basics() {
         <h4>Budget:</h4> <p>$1 to $2,000</p>
       </div>
       <div className="bubble half">
-        <h4>Timeframe:</h4> <p>1-3 months</p>
+        <h4>Timeframe:</h4> <p>3-6 months</p>
       </div>
       </div>
       <div className="bubble">
