@@ -109,7 +109,7 @@ function InspoBoard() {
 
         <div className="block">
           <div className="design-inspirations">
-            <h3>Design Inpirations</h3>
+            <h3>Design Inspirations</h3>
             <div className="image container">
               <img
                 className="thumb bigthumb"
